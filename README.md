@@ -1,3 +1,3 @@
-#Spotify-WebPlayer 
-In this project I created Spotify music app clone
-To creat this i use HTML ,CSS
+#Spotify-webPlayer for Everyone 
+In this project I mimic the functionality of  Spotify web page 
+to  create this i use HTML,CSS
