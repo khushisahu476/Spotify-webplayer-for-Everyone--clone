@@ -1,4 +1,4 @@
-#Spotify-webPlayer for Everyone 
+# Spotify WebPlayer for Everyone 
 
 # about
 In this project I mimic the functionality of  Spotify web page 
