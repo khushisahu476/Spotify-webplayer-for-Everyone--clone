@@ -1,5 +1,5 @@
-#Spotify-webPlayer for Everyone 
+##Spotify-webPlayer for Everyone 
 
-## about
+# about
 In this project I mimic the functionality of  Spotify web page 
 to  create this i use HTML,CSS
